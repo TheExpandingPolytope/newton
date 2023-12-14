@@ -1,6 +1,6 @@
 # Newton
 
-Newton is a fully on-chain physics sandbox allowing users to spawn objects into an infinite scene at will. Each object has real world value denominated in ETH based on the total amount of energy it took to inject it into the scene. 
+Newton is a fully on-chain physics sandbox allowing users to spawn objects into an infinite scene at will. Each object has real world value denominated in ETH based on the total amount of energy it took to inject it into the scene. The amount of ETH required inject a given object into a scene will have a 1:1 correlation with the its energy cost in Joules.
 This represents a minimalistic Cartesi Rollups application that simply copies (or "echoes") each input received as a corresponding output notice. This DApp's back-end is written in Python.
 
 ## Interacting with the application
